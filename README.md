@@ -1,2 +1,2 @@
-# Willing Maze
+# Teris-Maze
 
